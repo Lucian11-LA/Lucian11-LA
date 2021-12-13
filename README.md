@@ -15,6 +15,24 @@ You can contact me by:
 
 - send me an email at lucianalfred60@gmail.com
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Olá, meu nome é Lucian Alfred, e criei esta conta no github, para poder aprender muito sobre programação e compartilhar conhecimento e expandir meus horizontes.
+
+Minhas tecnologias ou linguagens de programação que eu realmente quero dominar ou pelo menos saber são:
+
+-Python, principalmente automação, inteligência artificial e ciência de dados.
+
+    Computação em nuvem
+    PHP
+    JavaScript
+    Html / css
+
+Você pode entrar em contato comigo por:
+
+    Facebook Lucian Alfred LA
+
+    envie-me um e-mail para lucianalfred60@gmail.com
+
 
 
 
