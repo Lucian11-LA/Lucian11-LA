@@ -1,16 +1,20 @@
 
-<h1>Lucian Alfred</h1>
-Hi my name is <h1>Lucian Alfred</h1>, and I created this github account, so I can learn a lot about programming and share knowledge and expand my horizons.
+<h1 style="color:blue">Lucian Alfred</h1>
 
-My technologies or programming languages ​​that I really want to master or at least know are:
+<p style="font-size:12pt;"><i>Hi my name is Lucian Alfred, and I created this github account, so I can learn a lot about programming and share knowledge and expand my horizons.</i></p>
 
--Python, especially automation, artificial intelligence and data science.
+<p style="font-size:12pt";>My technologies or programming languages ​​that I really want to master or at least know are:</p>
 
-- Cloud computing
-- PHP
-- JavaScript
-- Html/css
+<p>Python, especially automation, artificial intelligence and data science.</p>
 
+
+<ul>
+<li> Cloud computing</li>
+<li> JavaScript</li>
+<li> Html/css</li>
+<li>Python</li>
+<li> PHP </li>
+</ul>
 You can contact me by:
 
 - Facebook Lucian Alfred LA
