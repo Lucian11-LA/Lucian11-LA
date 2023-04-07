@@ -5,15 +5,14 @@
 
 <p style="font-size:12pt";>My technologies or programming languages ​​that I really want to master or at least know are:</p>
 
-<p>Python, especially automation, artificial intelligence and data science.</p>
 
 
 <ul>
-<li> Cloud computing</li>
+
 <li> JavaScript</li>
-<li> Html/css</li>
-<li>Python</li>
-<li> PHP </li>
+<li> Node</li>
+<li>ReactJS</li>
+<li>C</li>
 </ul>
 You can contact me by:
 
