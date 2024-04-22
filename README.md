@@ -16,8 +16,10 @@
 <li> Competitive Programming</li>
 </ul>
 You can contact me by:
-- <a href="https://www.linkedin.com/in/luciano-alfredo-7babbb216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" > LinkedIn </a>
-- Facebook Lucian Alfred LA
+- <p>
+<a href="https://www.linkedin.com/in/luciano-alfredo-7babbb216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" > LinkedIn </a>
+</p>
+- <p><a href=">Facebook Lucian Alfred LA</p></a>
 
 - send me an email at lucianalfred60@gmail.com
 
